@@ -1,4 +1,4 @@
-# 🚀 **Processo de QA - Curso Completo**
+# 🚀 **Processo de QA**
 
 Este repositório documenta as melhores práticas de **Qualidade de Software (QA)** abordadas durante o curso. O conteúdo foca em estratégias de teste, gerenciamento de tarefas com Jira e o ciclo de vida de bugs.
 
